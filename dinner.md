@@ -6,7 +6,7 @@
     - Wild Turkey American Honey
     - Orange & Agnostura Bitters
     <!-- need to get Agnostura Bitters -->
-    - Ardbeg Scotch
+    - Ardbeg Scotch Whisky
 * ***Negroni***
     - Campari
     - Dolin Rouge Vermouth
@@ -28,12 +28,12 @@
 
 #### Main *6:30PM*
 
-* Smoked BBQ Chicken (or Tofu)
-* Marinated, Grilled Tri Tip (or Eggplant)
+* Smoked BBQ Chicken or Tofu
+* Marinated, Grilled Tri Tip or Eggplant
 * Corn on the Cob
 * Roasted Potatoes
 
 #### Dessert *7:30PM*
 
-* Smores
-* Pistachio Macarons
+* Chocolate Chip Cookie Smores
+* Pistachio French Macarons
