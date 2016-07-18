@@ -8,7 +8,7 @@
 
 #### Main *6:30PM*
 
-* Pulled Pork sandwhiches Grandma's Rolls
+* Pulled Pork Sandwiches with Grandma's Rolls
 * Baby Back Ribs
 * Cole slaw
 * Corn Bread Muffins
@@ -16,5 +16,8 @@
 
 #### Dessert *7:30PM*
 
-* Caramel Apples
+* Chocolate and Caramel Covered Apple
 * Ice Cream
+    * Bourbon Vanilla
+    * Deep Dark Chocolate
+    * Very Rocky Road
