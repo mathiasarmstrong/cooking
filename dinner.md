@@ -7,9 +7,11 @@
 
 ####<span style="font-size:.75rem;">*6:15pm*</span> Appetizers 
 
-* *Bacon-Wrapped Asparagus and Brussel Sprouts*
-* *Grilled Mushroom Skewers*
-* *Pineapple Shrimp Skewers*
+* *Honeycomb*
+* *Fresh Buttered Rolls*
+* *Finger salads*
+<!-- baby Romaine leaves with arugula and Avaocado with a pomegrante vinegrette dressing -->
+* 
 
 ####<span style="font-size:.75rem;">*6:30pm*</span> Main 
 
@@ -22,21 +24,3 @@
 
 * *Chocolate Chip Cookie Smores*
 * *Pistachio French Macarons*
-
-<!-- - Wild Turkey Bourbon -->
-<!-- - Wild Turkey American Honey -->
-<!-- - Orange & Agnostura Bitters -->
-<!-- need to get Agnostura Bitters -->
-<!-- - Ardbeg Scotch Whisky -->
-
-<!-- - Campari -->
-<!-- - Dolin Rouge Vermouth -->
-<!-- - Tanqueray Gin -->
-<!-- need to get Gin -->
-
-<!-- - Bacardi Rum -->
-<!-- - Lime Juice -->
-<!-- - Club Soda -->
-<!-- - Mint -->
-<!-- - Sugar -->
-<!-- Ale House Selection? -->
